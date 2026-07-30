@@ -1,7 +1,6 @@
 # 🚀 onxx-Tool  
 ### *Your Personal Hacking Toolbox – Interactive Installer* 
-![install](https://files.catbox.moe/sp3yja.png)
-     *English 👋🏻*
+
 **Created by Onxx-x143*
 ### 🔗Feedback
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_insrnx_)

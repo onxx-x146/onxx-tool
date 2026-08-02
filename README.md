@@ -34,7 +34,7 @@ Just type the numbers of the tools you want (e.g., `1 2 3 5 2`) and the script i
 ## Termux install 🥷🏻
 ```
 apt update && apt upgrade -y 
-git clone https://github.com/onxx-x143/onxx-tool.git
+git clone https://github.com/onxx-x146/onxx-tool.git
 cd onxx-tool
 chmod +x main.sh
 bash main.sh

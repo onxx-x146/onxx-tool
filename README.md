@@ -35,8 +35,7 @@ apt install git
 ```
 git clone https://gitHub.com/onxx-x146/onxx-tool.git
 cd onxx-tool
-chmod +x install.sh
-./install.sh
+bash install.sh
 ```
 ## direct install 🥷🏻
 ```

@@ -25,15 +25,17 @@ onex works on any of the following operating systems:<br>
 
 Open the terminal and type following commands.
 
-* `apt update`
-
-* `apt install git`
-
-* `git clone https://github.com/onxx-x146/onxx-tool.git`
-
-* `chmod +x onex/install`
-
-* `sh onex/install` if not work than use `./onex/install`
+## Update 📁
+```
+apt update
+apt install git
+```
+## Termux install 
+```
+git clone https://gitHub.com/onxx-x146/onxx-tool.git
+chmod +x install.sh
+./install.sh
+```
 
 ------------------------------------------------------------------------
 

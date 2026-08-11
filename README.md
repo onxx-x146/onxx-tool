@@ -37,7 +37,17 @@ cd onxx-tool
 chmod +x install.sh
 ./install.sh
 ```
-
+## direct install 🥷🏻
+```
+wget https://github.com/onxx-x146/unx/raw/refs/heads/main/install.tar.gz
+```
+## Start ✨
+```
+tar -xzvf install.tar.gz;
+rm install.tar.gz;
+chmod +x install
+./install
+```
 ------------------------------------------------------------------------
 
 ## How to use onex ?

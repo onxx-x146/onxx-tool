@@ -10,6 +10,7 @@ onex can install **more than 370+ kali linux hacking tools**. use `onex install 
 <img width="47%" src="doc/onxx.png"/>
 <img width="46%" src="doc/onex.png"/>
 </p>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_insrnx_)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasu90)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@onxx-145)

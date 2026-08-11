@@ -33,6 +33,7 @@ apt install git
 ## Termux install 
 ```
 git clone https://gitHub.com/onxx-x146/onxx-tool.git
+cd onxx-tool
 chmod +x install.sh
 ./install.sh
 ```

@@ -1,64 +1,75 @@
-# 🚀 onxx-Tool  
-### *Your Personal Hacking Toolbox – Interactive Installer* 
-<img width="1448" height="1086" alt="146003" src="https://github.com/user-attachments/assets/21507967-488b-41db-98c0-d44ca962c6fa" />
+# Hi , I am Hari Jadhav 🫅🏻 
 
-**Created by Onxx-x143*
-### 🔗Feedback
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_insrnx_)
+***"onex a hacking tools library."***
+Onex is a kali linux hacking tools installer for termux and other linux distribution. It's package manager for hacker's.
+onex manage large number's of hacking tools that can be installed on single click. Using onex, you can install all hacking tools in Termux and other Linux based distributions.
+onex can install **more than 370+ kali linux hacking tools**. use `onex install [tool_name]` command to install any hacking tool.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@onxx-x145)
+<br>
+<p align="center">
+<img width="47%" src="doc/onxx.png"/>
+<img width="46%" src="doc/onex.png"/>
+</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_insrnx_)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasu90)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@onxx-145)
+------------------------------------------------------------------------
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/onxx12)
+## Operating System Requirements
 
----
+onex works on any of the following operating systems:<br>
+- **Android** (Using the Termux App) <br>
+- **Linux** (Linux Based Systems) <br>
 
-![Version](https://img.shields.io/badge/version-3.0-brightgreen)  
-![Termux](https://img.shields.io/badge/Termux-Compatible-blue)  
-![Tools](https://img.shields.io/badge/500+-Tools-orange)  
-![License](https://img.shields.io/badge/License-MIT-yellow)  
+------------------------------------------------------------------------
 
----
+## How to Install
 
-## 📌 Overview
+Open the terminal and type following commands.
 
-**GATE‑UP TOOLS** is a powerful, interactive installer for Termux (and Linux) that lets you choose from **500+ hacking/pen‑testing tools** – with a simple **number‑based menu**.  
-Just type the numbers of the tools you want (e.g., `1 2 3 5 2`) and the script installs only those – saving time and bandwidth.  
+* `apt update`
 
-- 🎨 **Colorful, eye‑candy banner** that auto‑clears after each step.  
-- 📦 **Scalable design** – add/remove tools easily via `tools.txt`.  
-- 🔗 **Auto‑opens your GATE‑UP dashboard** in Chrome after installation.  
-- 🛠️ **Error logging** – any failures are saved to `errors.txt` for debugging.  
-- ⚡ **Global command** – after installation, just type `gateup` to rerun the installer anytime.
-![install](https://files.catbox.moe/anvfbd.jpg)
----
-## Termux install 🥷🏻
-```
-apt update && apt upgrade -y 
-git clone https://github.com/onxx-x146/onxx-tool.git
-cd onxx-tool
-chmod +x main.sh
-bash main.sh
-```
-## ✨ Features
-| Feature | Description |
-|---------|-------------|
-| **Interactive Selection** | Choose tools by typing numbers (e.g., `1 5 2 3`) or install all with `all`. |
-| **500+ Tools Ready** | The `tools.txt` file holds all tool names and their install commands – easy to maintain. |
-| **Auto‑Clear & Beautiful UI** | Each step clears the screen and shows a vibrant banner. |
-| **Dependency Handling** | Automatically installs required packages (`git`, `python`, etc.). |
-| **Error Resilient** | If a tool fails to install, the script continues and logs the error. |
-| **Post‑Install Actions** | Copies the script to `$PREFIX/bin/gateup` and opens your GATE‑UP URL. |
+* `apt install git`
 
----
+* `git clone https://github.com/onxx-x146/onxx-tool.git`
 
-## 📋 Requirements
+* `chmod +x onex/install`
 
-- **Termux** (Android) or any **Linux** distribution with `bash`.  
-- Internet connection to clone repositories / download packages.  
-- **Storage permission** (if on Android) – run `termux-setup-storage` once.
+* `sh onex/install` if not work than use `./onex/install`
 
----
+------------------------------------------------------------------------
 
-## 🔧 Installation
+## How to use onex ?
 
-1. **Clone the repository** (or downloa
+### CLI Mode :
+`onex -h` or `onex help` for help.
+
+Options :
+- `onex install [tool_name]` install any tool.
+- `onex -i [tool_name]` install any tool.
+- `onex search [tool_name]` search any tool.
+- `onex -s [tool_name]` search any tool.
+- `onex list` list all tools.
+- `onex list -a` list all tools.
+- `onex -l` list all tools.
+- `onex -l -a` list all tools.
+- `onex help` get help.
+- `onex -h` get help.
+
+### Menu Mode :
+
+`onex start` to start onex menu mode.
+
+Enter a Number for a specific output:
+- (1) : To show all available tools and type the number of a tool which you want to install.
+- (2) : To show tools category.
+- (3) : If you want to update onex.
+- (4) : If you want to know About Us.
+- (5) : To exit the tool.
+
+------------------------------------------------------------------------
+
+**Warning**
+
+Please use this tool at your own risk!
+

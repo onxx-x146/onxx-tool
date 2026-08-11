@@ -1,19 +1,16 @@
 # Hi , I am Hari Jadhav 🫅🏻 
 
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_insrnx_)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasu90)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@onxx-145)
+
 ***"onex a hacking tools library."***
 Onex is a kali linux hacking tools installer for termux and other linux distribution. It's package manager for hacker's.
 onex manage large number's of hacking tools that can be installed on single click. Using onex, you can install all hacking tools in Termux and other Linux based distributions.
 onex can install **more than 370+ kali linux hacking tools**. use `onex install [tool_name]` command to install any hacking tool.
 
-<br>
-<p align="center">
-<img width="47%" src="doc/onxx.png"/>
-<img width="46%" src="doc/onex.png"/>
-</p>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_insrnx_)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasu90)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@onxx-145)
 ------------------------------------------------------------------------
 
 ## Operating System Requirements

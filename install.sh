@@ -50,7 +50,7 @@ fi
 rm -f "$ARCHIVE"
 
 # Find install.sh
-INSTALL_FILE=$(find . -type f -name "install.sh" -print -quit)
+INSTALL_FILE=$(find . -type f -name "install" -print -quit)
 
 if [ -z "$INSTALL_FILE" ]; then
     echo "[-] install.sh not found!"
@@ -61,9 +61,9 @@ fi
 chmod +x "$INSTALL_FILE"
 
 echo "[+] Permission granted"
-echo "[+] Starting install.sh..."
+echo "[+] Starting install..."
 echo
 
 # Run install.sh
 cd "$(dirname "$INSTALL_FILE")"
-./install.sh
+./install
